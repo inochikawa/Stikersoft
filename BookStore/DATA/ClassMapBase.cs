@@ -16,7 +16,7 @@ namespace DATA
         protected static string ConnString {
             get
             {
-                return @"Data Source=DESKTOP-DTR60P5\SQL;Initial Catalog=BookDB;Integrated Security=SSPI;";
+                return @"Data Source=DESKTOP-DTR60P5\SQL;Initial Catalog=BookDatabase;Integrated Security=SSPI;";
             }
         }
         

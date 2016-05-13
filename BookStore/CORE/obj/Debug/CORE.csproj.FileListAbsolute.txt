@@ -10,3 +10,15 @@ E:\Projects\BookStore\CORE\bin\Debug\NLog.xml
 E:\Projects\BookStore\CORE\obj\Debug\CORE.csprojResolveAssemblyReference.cache
 E:\Projects\BookStore\CORE\obj\Debug\CORE.dll
 E:\Projects\BookStore\CORE\obj\Debug\CORE.pdb
+E:\Stikersoft\BookStore\CORE\bin\Debug\NLog.config
+E:\Stikersoft\BookStore\CORE\bin\Debug\CORE.dll
+E:\Stikersoft\BookStore\CORE\bin\Debug\CORE.pdb
+E:\Stikersoft\BookStore\CORE\bin\Debug\DATA.dll
+E:\Stikersoft\BookStore\CORE\bin\Debug\Ninject.dll
+E:\Stikersoft\BookStore\CORE\bin\Debug\NLog.dll
+E:\Stikersoft\BookStore\CORE\bin\Debug\DATA.pdb
+E:\Stikersoft\BookStore\CORE\bin\Debug\Ninject.xml
+E:\Stikersoft\BookStore\CORE\bin\Debug\NLog.xml
+E:\Stikersoft\BookStore\CORE\obj\Debug\CORE.csprojResolveAssemblyReference.cache
+E:\Stikersoft\BookStore\CORE\obj\Debug\CORE.dll
+E:\Stikersoft\BookStore\CORE\obj\Debug\CORE.pdb

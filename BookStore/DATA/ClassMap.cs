@@ -217,8 +217,6 @@ namespace DATA
                     i = 0;
                     items.Add(obj);
                 }
-
-                sqlReader.Close();
             }
             catch (SqlException e)
             {
