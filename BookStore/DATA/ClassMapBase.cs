@@ -16,7 +16,7 @@ namespace DATA
         protected static string ConnString {
             get
             {
-                return @"Data Source=DESKTOP-DTR60P5\SQL;Initial Catalog=BookDatabase;Integrated Security=SSPI;";
+                return @"Data Source=DESKTOP-DTR60P5\SQL;Initial Catalog=BookDB;Integrated Security=SSPI;";
             }
         }
         
@@ -161,7 +161,7 @@ namespace DATA
         }
 
 
-        #region For work with table components --- Colomns name, type, table name...
+        #region For work with table components --- Colomns name, type, table name etc.
 
         protected static PropertyInfo[] properties(Type Type)
         {
