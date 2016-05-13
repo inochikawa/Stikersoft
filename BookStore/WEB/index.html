@@ -1,0 +1,44 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title>Test page</title>
+    <link rel="stylesheet" type="text/css" href="Content/mainStyle.css">
+    <script src="Scripts/jquery-2.2.3.min.js"></script>
+    <script src="Scripts/mainScript.js"></script>
+</head>
+<body>
+    <div class="allBooksDiv">
+        <h2>All Books</h2>
+        <ul id="books" />
+    </div>
+
+    <div class="searchBookDiv">
+        <h2>Search by Publish year</h2>
+        <input type="text" id="publishYear" size="5" />
+        <input type="button" value="Search" onclick="find();"/>
+
+        <ul id="searchedBooks" />
+    </div>
+
+    <div class="createBookDiv">
+        <h2>Create Book</h2>
+
+        <h4>Book name</h4>
+        <input type="text" id="bookName" size="5" />
+
+        <h4>Publish year</h4>
+        <input type="text" id="bookPublishYear" size="5" />
+
+        <h4>Publisher</h4>
+        <input type="text" id="bookPublisher" size="5" /> <p />
+        
+        <input type="button" value="Create" onclick="create();" />
+
+        <p id="success" />
+    </div>
+
+    <footer >
+        <p>-- Created by <b>Maksim Stecenko</b> for <b>Stikersoft</b></p>
+    </footer>
+</body>
+</html>

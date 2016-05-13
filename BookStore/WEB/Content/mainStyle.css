@@ -1,0 +1,20 @@
+﻿body {
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-left:5px;
+}
+
+div {
+    padding: 20px;
+    align-items:center;
+    font-family:'Times New Roman', 'Arial', 'Consolas';
+    display:table-cell;
+}
+
+footer {
+    border-top:solid;
+    border-top-color:cadetblue;
+    border-top-width:1px;
+    font-family:'Arial';
+    font-size:12px;
+}
